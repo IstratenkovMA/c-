@@ -1,0 +1,9 @@
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\bin\Debug\Brainstorm.exe.config
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\bin\Debug\Brainstorm.exe
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\bin\Debug\Brainstorm.pdb
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\obj\Debug\Brainstorm.Form1.resources
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\obj\Debug\Brainstorm.Properties.Resources.resources
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.GenerateResource.Cache
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\obj\Debug\Brainstorm.exe
+c:\users\bananman\documents\visual studio 2015\Projects\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
